@@ -3,7 +3,7 @@
 Aplicação web para criação de watchlists personalizadas com pares de ativos da Binance, exibindo cotações em tempo real via WebSocket.
 
 <h4 align="center"> 
-	A aplicaçãp pode ser acessada pelo site ([https://my-shop9.netlify.app/](https://binance-tracker.vercel.app/))
+	A aplicaçãp pode ser acessada pelo site (https://binance-tracker.vercel.app/)]())
 </h4>
 
 ## Funcionalidades
