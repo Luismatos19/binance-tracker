@@ -42,7 +42,6 @@ describe("useMarketSocket", () => {
       useMarketSocket(["btcusdt", "invalid", "ethusdt"])
     );
 
-    // aguarda o efeito assíncrono acontecer
     await new Promise((r) => setTimeout(r, 0));
 
     expect(global.WebSocket).toHaveBeenCalledWith(
