@@ -6,5 +6,12 @@
   ],
   "compilerOptions": {
     "types": ["vitest/globals"]
-  }
+  },
+  "exclude": [
+    "**/*.test.ts",
+    "**/*.test.tsx",
+    "vitest.config.ts",
+    "src/test",
+    "src/__tests__"
+  ]
 }
